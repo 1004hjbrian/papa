@@ -13,6 +13,7 @@ function1{
 
 function2{
 //현준
+  system.out.println("2021.6.24")
 }
 
 
