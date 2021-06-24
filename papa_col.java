@@ -3,7 +3,7 @@ function1{
 
 
 이것은 오늘의 테스트내역입니다.
-
+system.out.println("wow  repeat!")
 
 
 
